@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Mali|Shadows+Into+Light');
+
+body {
+  width: 550px;
+  margin: auto;
+  font-family: 'Shadows Into Light', cursive;
+  background: #032B43;
+}
+
+.Square {
+  height: 80px;
+  width: 80px;
+  text-align: center;
+  font-size: 45pt;
+  font-weight: bold; //makes the X's & O's Bold //
+  font-family: 'Mali', cursive;
+  color: white;
+
+}
+
+h1 {
+  color: white;
+  border-bottom: 2px solid white;
+}
+
+
+#message {
+  font-size: 18pt;
+  font-family: 'Indie Flower', cursive;
+  color: white;
+
+}
+
+#restart {
+  font-size: 18pt;
+  font-family: 'Indie Flower', cursive;
+  color: white;
+}
